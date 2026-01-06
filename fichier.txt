@@ -1,4 +1,5 @@
 khoyaaaaaaaa
+<<<<<<< HEAD
 lkf  ijewfijodwqkldKKJFXS KE SAOIUA 
 lkf  ijewfijodwqkldKKJFXS KE SAOIUA OI leila ijaihfeihfw  leila
 iyehh
@@ -8,3 +9,6 @@ kr uq4
  
 kr uq4k \sem oie
  awilii
+=======
+awiliiii
+>>>>>>> 361bb34e8d12ab949276254da7d4710e438bcc16
